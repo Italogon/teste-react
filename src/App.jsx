@@ -10,6 +10,7 @@ import Products from "./pages/Products";
 import Contact from "./pages/Contact";
 import NotFound from "./pages/NotFound";
 import Home from "./pages/Home";
+// const test = 0;
 
 import { Route, Routes } from 'react-router-dom';
 function App(){
